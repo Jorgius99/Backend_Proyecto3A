@@ -1,1 +1,1 @@
-# Backend_Proyecto3A
+Todo el codigo del backend y pagina web realizado por Jorge Marín-Roig Zozaya
